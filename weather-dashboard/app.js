@@ -5,7 +5,7 @@
 class WeatherDashboard {
     constructor() {
         // API Configuration
-        this.apiKey = 'YOUR_OPENWEATHERMAP_API_KEY'; // Replace with your API key
+        this.apiKey = 'fe0d9614ae7a3d145403bd64bf270e50'; // Replace with your API key
         this.apiBaseUrl = 'https://api.openweathermap.org/data/2.5';
         this.unit = 'metric'; // Celsius (use 'imperial' for Fahrenheit)
 
